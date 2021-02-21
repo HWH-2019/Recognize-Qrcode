@@ -1,0 +1,1 @@
+REG ADD "HKCR\Directory\Background\shell\Ê¶±ğ¼ôÇĞ°å¶şÎ¬Âë\command" /d "D:\Python\test\gcb_demo.bat"
